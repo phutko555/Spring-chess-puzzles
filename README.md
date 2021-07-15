@@ -9,10 +9,10 @@ Then a chess board state may be represented via Spring Application Context, that
 Your task is to construct Spring Java Configurations to create such Application Contexts.
 A configuration must provide beans of chess pieces.
 The testing code use them to create an instance of [ChessBoard](src/main/java/com/epam/rd/autotasks/chesspuzzles/ChessBoard.java), which must present chess board state as a String.
+Implementing this interface and its static method `of` is your responsibility as well.
 
-You have to provide the following configurations:
-
-Required Java Configurations (put them into [com.epam.rd.autotasks.chesspuzzles.config](src/main/java/com/epam/rd/autotasks/chesspuzzles/config) package)
+You need to provide the following configurations 
+(put them into [com.epam.rd.autotasks.chesspuzzles.config](src/main/java/com/epam/rd/autotasks/chesspuzzles/config) package):
 - Default
 - DefaultBlack
 - DefaultWhite
