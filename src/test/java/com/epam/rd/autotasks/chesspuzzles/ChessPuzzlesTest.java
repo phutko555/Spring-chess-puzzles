@@ -34,9 +34,7 @@ class ChessPuzzlesTest {
                 "DefaultWhite",
                 "Puzzle01",
                 "Puzzle02",
-                "Puzzle03",
-                "Puzzle04",
-                "Puzzle05"
+                "Puzzle03"
         );
     }
 }
