@@ -1,4 +1,4 @@
-# Spring Chess Layouts
+# Spring Chess Puzzles
 
 Chess is a famous table game. This exercise is about representing chess board states as Spring configurations.
 
