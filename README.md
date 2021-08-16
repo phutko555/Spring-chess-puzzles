@@ -19,8 +19,6 @@ You need to provide the following configurations
 - Puzzle01
 - Puzzle02
 - Puzzle03
-- Puzzle04
-- Puzzle05
 
 You may refer to board states, presented in related text files in [src/test/resources/boards](src/test/resources/boards)
 
